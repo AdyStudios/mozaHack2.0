@@ -1,0 +1,16 @@
+D:\Projektek\C#\Moza Hack 2.0\obj\Debug\net5.0\Moza Hack 2.0.csprojAssemblyReference.cache
+D:\Projektek\C#\Moza Hack 2.0\obj\Debug\net5.0\Moza Hack 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projektek\C#\Moza Hack 2.0\obj\Debug\net5.0\Moza Hack 2.0.AssemblyInfoInputs.cache
+D:\Projektek\C#\Moza Hack 2.0\obj\Debug\net5.0\Moza Hack 2.0.AssemblyInfo.cs
+D:\Projektek\C#\Moza Hack 2.0\obj\Debug\net5.0\Moza Hack 2.0.csproj.CoreCompileInputs.cache
+D:\Projektek\C#\Moza Hack 2.0\bin\Debug\net5.0\Moza Hack 2.0.exe
+D:\Projektek\C#\Moza Hack 2.0\bin\Debug\net5.0\Moza Hack 2.0.deps.json
+D:\Projektek\C#\Moza Hack 2.0\bin\Debug\net5.0\Moza Hack 2.0.runtimeconfig.json
+D:\Projektek\C#\Moza Hack 2.0\bin\Debug\net5.0\Moza Hack 2.0.runtimeconfig.dev.json
+D:\Projektek\C#\Moza Hack 2.0\bin\Debug\net5.0\Moza Hack 2.0.dll
+D:\Projektek\C#\Moza Hack 2.0\bin\Debug\net5.0\ref\Moza Hack 2.0.dll
+D:\Projektek\C#\Moza Hack 2.0\bin\Debug\net5.0\Moza Hack 2.0.pdb
+D:\Projektek\C#\Moza Hack 2.0\obj\Debug\net5.0\Moza Hack 2.0.dll
+D:\Projektek\C#\Moza Hack 2.0\obj\Debug\net5.0\ref\Moza Hack 2.0.dll
+D:\Projektek\C#\Moza Hack 2.0\obj\Debug\net5.0\Moza Hack 2.0.pdb
+D:\Projektek\C#\Moza Hack 2.0\obj\Debug\net5.0\Moza Hack 2.0.genruntimeconfig.cache
